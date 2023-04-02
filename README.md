@@ -16,12 +16,14 @@
   <img src='pic/Spring.png' width='55' title='Spring'>
   <img src='pic/Kafka.png' width='55' title='Apache Kafka'>
 </p>
+
 - Database
 <p algin='left'>
   <img src='pic/Postgre.png' width='55' title='PostgreSQL'>
   <img src='pic/MariaDb.png' width='55' title='MariaDb'>
   <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
 </p>
+
 - Continuos Integration/Development:
 <p algin='left'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
