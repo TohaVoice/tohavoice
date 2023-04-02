@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align=center> Anton Shatokhin </h1>
 
-<!--
-**TohaVoice/tohavoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&width=435&lines=Experienced+Java+Back-end+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align=left>
+ <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tohavoice&count_private=true&show_icons=true&theme=dracula' />
+ 
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tohavoice&theme=dracula' />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-end Development
+<p algin='left'>
+  <img src='pic/Java.png' width='55' title='Java'>
+  <img src='pic/Spring.png' width='55' title='Spring'>
+  <img src='pic/Kafka.png' width='55' title='Apache Kafka'>
+</p>
+- Database
+<p algin='left'>
+  <img src='pic/Postgre.png'n width='55' title='PostgreSQL'>
+  <img src='pic/MariaDb.png'n width='55' title='MariaDb'>
+  <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
+</p>
+- Continuos Integration/Development:
+<p algin='left'>
+    <img src='pic/Jenkins.png' width='55' title='Jenkins'>
+    <img src='pic/Docker.png' width='55' title='Docker'>
+    <img src='pic/Git.png' width='55' title='Git'>
+</p>
+
