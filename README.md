@@ -33,7 +33,7 @@
     <img src='pic/Docker.png' width='55' title='Docker'>
     <img src='pic/Git.png' width='55' title='Git'>
 </p>
-    ------------------------------------------------------------------------------------------
+    ----------------------------------------------------------------------------
     </td>
    <td>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tohavoice&theme=dracula&langs_count=10' />
