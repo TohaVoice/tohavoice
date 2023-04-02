@@ -10,7 +10,15 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tohavoice&theme=dracula' />
 </p>
 
-- Back-end Development
+
+
+<table align=left >
+
+  
+  <tr>
+   <td>
+
+- Back-end Development                                                                                   
 <p algin='left'>
   <img src='pic/Java.png' width='55' title='Java'>
   <img src='pic/Spring.png' width='55' title='Spring'>
@@ -30,4 +38,18 @@
     <img src='pic/Docker.png' width='55' title='Docker'>
     <img src='pic/Git.png' width='55' title='Git'>
 </p>
+    ------------------------------------------------------------------------------------------
+    </td>
+   <td>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tohavoice&theme=dracula&langs_count=10' />
+    <p>|</p>
+    <p>|</p>
+    <p>|</p>
+    <p>|</p>
+    <p>|</p>
+       </td>
+   
+
+  </tr>
+
 
