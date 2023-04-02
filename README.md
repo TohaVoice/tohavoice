@@ -18,8 +18,8 @@
 </p>
 - Database
 <p algin='left'>
-  <img src='pic/Postgre.png'n width='55' title='PostgreSQL'>
-  <img src='pic/MariaDb.png'n width='55' title='MariaDb'>
+  <img src='pic/Postgre.png' width='55' title='PostgreSQL'>
+  <img src='pic/MariaDb.png' width='55' title='MariaDb'>
   <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
 </p>
 - Continuos Integration/Development:
