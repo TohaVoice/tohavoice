@@ -7,7 +7,7 @@
 <p align=left>
  <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tohavoice&count_private=true&show_icons=true&theme=dracula' />
  
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tohavoice&theme=dracula' />
+<img algin='right' width='49.7%' src='https://streak-stats.demolab.com/?user=tohavoice&theme=dracula' />
 </p>
 
 <table align=left >
