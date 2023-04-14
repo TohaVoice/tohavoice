@@ -34,6 +34,15 @@
     <img src='pic/Docker.png' width='55' title='Docker'>
     <img src='pic/Git.png' width='55' title='Git'>
 </p>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
     ----------------------------------------------------------------------------
     </td>
    <td>
