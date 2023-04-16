@@ -32,6 +32,8 @@
 <p algin='left'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>
+    <img src='pic/Helm.png' width='55' title='Helm'>
+    <img src='pic/Kubernetes.png' width='55' title='Kubernetes'>
     <img src='pic/Git.png' width='55' title='Git'>
 </p>
  </br>
