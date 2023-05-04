@@ -28,7 +28,7 @@
   <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
 </p>
 
-- ### Continuos Integration/Development:
+- ### Continuos Integration / Development:
 <p algin='left'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>
