@@ -1,4 +1,4 @@
-<!-- from Tynab repository -->
+<!-- from Tynab repository :)) -->
 
 <h1 align=center> Anton Shatokhin </h1>
 
