@@ -3,7 +3,7 @@
 <h1 align=center> Anton Shatokhin </h1>
 
 <p align=center>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&width=435&lines=Experienced+Java+Back-end+Developer;Looking+for+a+part-time+job" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&width=435&lines=Experienced+Java+Back-end+Developer;Thanks+for visiting+my+profile" alt="Typing SVG" /></a>
 </p>
 
 <p align=left>
